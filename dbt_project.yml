@@ -40,3 +40,5 @@ models:
       +materialized: ephemeral
     mart:
       +materialized: table
+    fct:
+      +materialized: table
