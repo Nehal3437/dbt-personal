@@ -22,3 +22,6 @@ SELECT
     updated_at
 FROM
     src_listings
+
+
+# This is a testing code and this should not go to the production environment. Please comment this code while pushing to the main branch. Thank you.
