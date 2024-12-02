@@ -22,5 +22,3 @@ SELECT
     updated_at
 FROM
     src_listings
-
-# This code is added from VScode, Locally and should be mergerd with the mian remote branch in git.
